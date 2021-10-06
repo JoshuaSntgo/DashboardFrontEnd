@@ -7,7 +7,7 @@ import Title from './Title';
 function createData(time, amount) {
   return { time, amount };
 }
-//aaa
+
 const data = [
   createData('00:00', 50),
   createData('03:00', 300),
